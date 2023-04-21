@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    text-align: center;
+}
+
+.opcion1 {
+    background-color: aquamarine;
+}
+
+.opcion2 {
+    background-color: darkorange;
+}
+
+.volver {
+    background-color: #DA4453;
+    font-size: 52px;
+}
+
+.win {
+    background-color: rgb(134, 210, 57);
+    font-size: 52px;
+}
